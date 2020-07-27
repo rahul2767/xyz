@@ -1,3 +1,3 @@
 # Just a random heading !
 
-## anoter random sub-heading .
+## another random sub-heading .
